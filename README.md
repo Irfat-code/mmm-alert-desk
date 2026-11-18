@@ -178,4 +178,4 @@ The main lesson for me was that an AI-generated explanation isn't the same as a 
 - [x] Configuration comparisons and changelog
 - [x] Monitor v2: pre-fit gates, post-fit alerts, watch tier
 - [x] Stakeholder notebook
-- [ ] Checking AI-generated analysis against the data
+- [x] Checking AI-generated analysis against the data
