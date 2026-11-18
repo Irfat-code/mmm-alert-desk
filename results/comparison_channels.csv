@@ -1,0 +1,17 @@
+config,channel,roas_mean,roas_low_5,roas_high_95,width_over_lower,wide_interval,prior_beta_median,prior_beta_q90,prior_beta_sd,post_beta_median,post_beta_sd,sd_ratio_post_over_prior,measured,median_shift_in_prior_sd,prior_too_tight
+baseline_v0,meta,6.6042,2.0993,15.6874,6.47,False,1.0484,2.4539,0.8989,0.9923,0.6125,0.681,True,-0.06,False
+baseline_v0,google,6.0105,1.3476,18.7324,12.9,True,1.039,2.5919,0.9304,0.5491,0.5123,0.551,True,-0.53,False
+baseline_v0,tiktok,1.622,1.018,2.2414,1.2,False,0.99,2.3951,0.8708,0.2083,0.1075,0.123,True,-0.9,False
+baseline_v0,email,41.0412,0.7375,150.2806,202.77,True,0.9523,2.3762,0.8786,0.2546,0.3996,0.455,True,-0.79,False
+v0_accept95,meta,7.1325,2.139,17.0331,6.96,False,1.0484,2.4539,0.8989,1.0306,0.6618,0.736,True,-0.02,False
+v0_accept95,google,5.6769,1.2995,19.2405,13.81,True,1.039,2.5919,0.9304,0.5342,0.5443,0.585,True,-0.54,False
+v0_accept95,tiktok,1.6316,1.0078,2.2748,1.26,False,0.99,2.3951,0.8708,0.2076,0.1047,0.12,True,-0.9,False
+v0_accept95,email,49.6451,0.6975,194.2922,277.56,True,0.9523,2.3762,0.8786,0.2928,0.4909,0.559,True,-0.75,False
+hill_spendshare,meta,2.7392,1.4843,4.5172,2.04,False,0.1789,0.4186,0.1533,0.3895,0.1213,0.791,True,1.37,False
+hill_spendshare,google,1.9729,1.0729,3.6158,2.37,False,0.1138,0.2838,0.1019,0.1924,0.076,0.746,True,0.77,False
+hill_spendshare,tiktok,1.5535,1.0066,2.1494,1.14,False,0.0567,0.1371,0.0498,0.1191,0.0323,0.648,True,1.25,False
+hill_spendshare,email,4.0465,0.3409,10.3586,29.39,True,0.0192,0.0479,0.0177,0.0229,0.0182,1.025,False,0.21,False
+logistic_spendshare,meta,2.3295,1.8317,2.8718,0.57,False,0.1937,0.4901,0.18,0.2848,0.0351,0.195,True,0.51,False
+logistic_spendshare,google,2.162,1.5805,2.843,0.8,False,0.1359,0.3161,0.1112,0.1931,0.0387,0.348,True,0.51,False
+logistic_spendshare,tiktok,1.7096,1.1621,2.299,0.98,False,0.071,0.1675,0.0604,0.1158,0.0262,0.433,True,0.74,False
+logistic_spendshare,email,3.7079,0.2424,10.0022,40.26,True,0.0212,0.0491,0.0181,0.0221,0.0175,0.967,False,0.05,False

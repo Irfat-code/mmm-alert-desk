@@ -1,0 +1,3 @@
+campaign_id,campaign_name_base,channel_base,platform_base,n_platforms_base,total_spend_base,campaign_name_run,channel_run,platform_run,n_platforms_run,total_spend_run,change,spend_diff
+104,META_AdvantagePlus_Shopping,meta,meta,1.0,822814.77,META_AdvantagePlus_Shopping,meta,meta,1,625468.91,total_spend changed,-197345.86
+105,,,,,,META_AdvantagePlus_Shopping,social,meta,1,197345.86,added,197345.86

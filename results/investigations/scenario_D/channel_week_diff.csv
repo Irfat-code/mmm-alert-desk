@@ -1,0 +1,4 @@
+channel,week_start,n_rows_base,n_dates_base,n_campaigns_base,zero_spend_rows_base,spend_base,impressions_base,clicks_base,n_rows_run,n_dates_run,n_campaigns_run,zero_spend_rows_run,spend_run,impressions_run,clicks_run,in_db
+tiktok,2025-06-16,21,7,3,0.0,13586.72,1696153.0,16030.0,,,,,,,,left_only
+tiktok,2025-06-23,21,7,3,0.0,18510.78,2270332.0,20803.0,,,,,,,,left_only
+tiktok,2025-06-30,21,7,3,0.0,19249.0,2561765.0,23830.0,,,,,,,,left_only

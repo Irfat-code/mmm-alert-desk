@@ -1,0 +1,10 @@
+run,clean,database,rows,fires,detail
+baseline__seed20261118,True,alert_desk.duckdb,0,False,
+baseline__seed7,True,alert_desk.duckdb,0,False,
+baseline__seed31337,True,alert_desk.duckdb,0,False,
+scenario_A,False,scenario_A.duckdb,0,False,
+scenario_B,False,scenario_B.duckdb,0,False,
+scenario_C,False,scenario_C.duckdb,4,True,online_store from 2025-12-15 (2 weeks); tiktok_shop from 2025-12-15 (2 weeks)
+scenario_D,False,scenario_D.duckdb,0,False,
+scenario_E,False,scenario_E.duckdb,0,False,
+scenario_F,False,scenario_F.duckdb,12,True,tiktok_shop from 2025-10-06 (12 weeks)

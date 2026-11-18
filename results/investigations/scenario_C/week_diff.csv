@@ -1,0 +1,3 @@
+week_start,ad_days_base,order_days_base,in_model_input_base,spend_base,revenue_base,orders_base,new_customers_base,cac_base,ad_days_run,order_days_run,in_model_input_run,spend_run,revenue_run,orders_run,new_customers_run,cac_run,revenue_rel_change,orders_rel_change,new_customers_rel_change,cac_rel_change
+2025-12-15,7,7,1,70392.77999999998,256457.01999999996,4713.0,2310.0,30.47306493506493,7,5,1,70392.77999999998,186435.3,3424.0,1679.0,41.92541989279332,-0.27303491243873923,-0.2734988330150647,-0.27316017316017316,0.3758189398451459
+2025-12-22,7,7,1,42774.439999999995,206958.32000000004,3878.0,1899.0,22.524718272775143,7,0,0,42774.439999999995,0.0,0.0,0.0,,-1.0,-1.0,-1.0,

@@ -1,0 +1,5 @@
+config,divergences,max_treedepth_hits,max_rhat,worst_rhat_param,r2,mape,sampling_minutes,media_share,media_share_flag,wide_interval_channels,intercept_per_week,corr_intercept_media,trend_gamma_mean,trend_gamma_low_5,trend_gamma_high_95,trend_weekly_change_mean,corr_trend_intercept,corr_trend_media
+baseline_v0,225,1969,1.0084,saturation_beta,0.962,0.0262,3.8,1.5685,True,google email,-125348.41,-0.9997,0.0184,-0.0176,0.0531,6136.99,-0.1321,0.1085
+v0_accept95,61,3833,1.0206,saturation_beta,0.9621,0.0261,5.8,1.6619,True,google email,-144284.47,-0.9997,0.0179,-0.0201,0.0541,5971.88,-0.1367,0.1146
+hill_spendshare,0,0,1.0043,intercept_contribution,0.9625,0.0258,1.1,0.5618,False,email,79444.12,-0.989,0.0196,-0.0166,0.0537,6565.5,-0.1082,-0.0376
+logistic_spendshare,0,0,1.0032,saturation_beta,0.9624,0.0259,1.4,0.5317,False,email,86473.21,-0.9337,0.0143,-0.0209,0.0475,4791.35,-0.0512,-0.3037

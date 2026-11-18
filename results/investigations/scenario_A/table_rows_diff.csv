@@ -1,0 +1,2 @@
+table,promo_id,promo_name,start_date,end_date,discount_pct,in_db
+promo_calendar,10,SPRING25,2025-04-07,2025-04-20,0.25,baseline only

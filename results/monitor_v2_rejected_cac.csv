@@ -1,0 +1,9 @@
+run,clean,cac_change_latest2_vs_12,would_fire_at_30pct
+baseline__seed20261118,True,-0.1415,False
+baseline__seed7,True,-0.1415,False
+baseline__seed31337,True,-0.1415,False
+scenario_A,False,-0.1415,False
+scenario_B,False,-0.1312,False
+scenario_C,False,-0.0927,False
+scenario_D,False,-0.1415,False
+scenario_E,False,-0.1415,False

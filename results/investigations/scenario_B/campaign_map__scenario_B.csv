@@ -1,0 +1,15 @@
+campaign_id,campaign_name,channel,platform,n_platforms,total_spend
+101,META_Prospecting_Broad,meta,meta,1,1625632.15
+102,META_Prospecting_Lookalike,meta,meta,1,375390.18
+103,META_Retargeting_DPA,meta,meta,1,936546.6
+104,META_AdvantagePlus_Shopping,meta,meta,1,625468.91
+105,META_AdvantagePlus_Shopping,social,meta,1,197345.86
+201,GOOG_Search_Brand,google,google_ads,1,724883.79
+202,GOOG_Search_NonBrand,google,google_ads,1,793796.32
+203,GOOG_PMax,google,google_ads,1,808557.48
+204,GOOG_YouTube_Awareness,google,google_ads,1,86204.03
+301,TT_Spark_Ads,tiktok,tiktok,1,658329.17
+302,TT_Shop_GMV_Max,tiktok,tiktok,1,431631.21
+303,TT_Creator_Whitelisting,tiktok,tiktok,1,171415.9
+401,KLAVIYO_Flows,email,klaviyo,1,112641.45
+402,KLAVIYO_Campaigns,email,klaviyo,1,93512.15

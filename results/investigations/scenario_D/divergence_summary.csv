@@ -1,0 +1,15 @@
+param,channel,min,median,max,share_in_outer_10pct,share_in_top_10pct,share_in_bottom_10pct,all_in_outer_10pct
+adstock_alpha,email,36.95,51.3,65.64999999999999,0.0,0.0,0.0,False
+adstock_alpha,google,10.424999999999999,23.65,36.875,0.0,0.0,0.0,False
+adstock_alpha,meta,15.2,41.025,66.85,0.0,0.0,0.0,False
+adstock_alpha,tiktok,15.925,16.2375,16.55,0.0,0.0,0.0,False
+intercept_contribution,,24.05,55.125,86.2,0.0,0.0,0.0,False
+saturation_beta,email,32.175,64.4375,96.7,0.5,0.5,0.0,False
+saturation_beta,google,19.5,32.825,46.150000000000006,0.0,0.0,0.0,False
+saturation_beta,meta,26.950000000000003,29.5125,32.074999999999996,0.0,0.0,0.0,False
+saturation_beta,tiktok,2.0,16.1,30.2,0.5,0.0,0.5,False
+saturation_lam,email,20.674999999999997,27.625,34.575,0.0,0.0,0.0,False
+saturation_lam,google,55.074999999999996,67.9125,80.75,0.0,0.0,0.0,False
+saturation_lam,meta,18.85,40.45,62.050000000000004,0.0,0.0,0.0,False
+saturation_lam,tiktok,30.2,55.1625,80.125,0.0,0.0,0.0,False
+y_sigma,,28.175,60.2125,92.25,0.5,0.5,0.0,False

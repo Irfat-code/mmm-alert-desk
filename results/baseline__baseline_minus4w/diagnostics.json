@@ -1,0 +1,69 @@
+{
+  "config": "baseline",
+  "run": "baseline__baseline_minus4w",
+  "database": "C:\\Users\\tafri\\AppData\\Local\\Temp\\claude\\3ea7625d90ba0139\\ca775578-a482-412d-bade-7d8e86970a86\\scratchpad\\refresh\\baseline_minus4w.duckdb",
+  "sampling_minutes": 1.4,
+  "r2": 0.9599,
+  "mape": 0.0258,
+  "max_rhat": 1.003,
+  "worst_rhat_param": "saturation_lam",
+  "divergences": 0,
+  "max_treedepth_hits_by_chain": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "converged": true,
+  "plausibility": {
+    "total_revenue": 30757174.87,
+    "media_contribution": 16449821.81,
+    "media_share_of_revenue": 0.5348,
+    "media_share_flag": false,
+    "media_share_threshold": 0.8,
+    "interval_ratio_threshold": 10,
+    "wide_interval_channels": [
+      "email"
+    ],
+    "channels": {
+      "meta": {
+        "roas_interval_width": 1.1257,
+        "width_over_lower": 0.6,
+        "wide_interval": false
+      },
+      "google": {
+        "roas_interval_width": 1.2584,
+        "width_over_lower": 0.81,
+        "wide_interval": false
+      },
+      "tiktok": {
+        "roas_interval_width": 1.1249,
+        "width_over_lower": 0.96,
+        "wide_interval": false
+      },
+      "email": {
+        "roas_interval_width": 9.2917,
+        "width_over_lower": 39.54,
+        "wide_interval": true
+      }
+    },
+    "plausible": false
+  },
+  "decomposition": {
+    "intercept": 12960650.45,
+    "controls": 1397453.58,
+    "seasonality": -53824.38,
+    "media": 16449821.81,
+    "intercept_per_week": 85267.44
+  },
+  "rhat_by_param": {
+    "adstock_alpha": 1.0008,
+    "gamma_control": 1.0005,
+    "gamma_fourier": 1.0007,
+    "intercept_contribution": 1.0008,
+    "saturation_beta": 1.0016,
+    "saturation_lam": 1.003,
+    "total_media_contribution_original_scale": 1.0012,
+    "y_sigma": 1.0009
+  }
+}

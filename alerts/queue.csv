@@ -1,0 +1,8 @@
+alert_id,run,alert_type,metric,baseline_value,new_value,raised_date
+A001,scenario_B,roas_shift,roas_mean:tiktok,1.7096,0.7851,2026-11-18
+A002,scenario_B,data_check,rows:01_unexpected_channels,0.0,1.0,2026-11-18
+A003,scenario_C,data_check,rows:02_incomplete_weeks,0.0,2.0,2026-11-18
+A004,scenario_D,convergence,divergences,0.0,2.0,2026-11-18
+A005,scenario_D,data_check,rows:03_channel_zero_weeks,0.0,3.0,2026-11-18
+A006,scenario_E,convergence,divergences,0.0,14.0,2026-11-18
+A007,scenario_F,roas_shift,roas_mean:tiktok,1.7096,2.4523,2026-11-18

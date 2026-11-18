@@ -1,0 +1,3 @@
+run,r2,mape,max_rhat,divergences,media_share_of_revenue,intercept_per_week,decomp_intercept,decomp_controls,decomp_seasonality,decomp_media,n_fit_weeks
+baseline,0.9624,0.0259,1.0032,0,0.5317,86473.21,13489820.79,1397787.29,-4920.34,16898310.91,156
+scenario_D,0.9593,0.0265,1.0032,2,0.5458,81026.7,12640165.74,1798768.9,-4807.7,17345030.44,156

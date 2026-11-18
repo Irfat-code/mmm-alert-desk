@@ -1,0 +1,24 @@
+{
+  "name": "baseline_v0",
+  "description": "REJECTED. Former live model. Geometric adstock (8 weeks), Hill saturation, PyMC-Marketing default priors, yearly seasonality, holiday and promo controls, linear trend.",
+  "channels": ["meta", "google", "tiktok", "email"],
+  "adstock_l_max": 8,
+  "saturation": "hill",
+  "yearly_seasonality": 2,
+  "controls": [
+    "hol_black_friday",
+    "hol_cyber_monday",
+    "hol_mothers_day",
+    "hol_valentines",
+    "hol_christmas",
+    "promo_intensity",
+    "trend"
+  ],
+  "sampler": {
+    "draws": 1000,
+    "tune": 1000,
+    "chains": 4,
+    "target_accept": 0.9,
+    "random_seed": 42
+  }
+}

@@ -1,0 +1,9 @@
+run,clean,control_shift,control_shift_fires,param_shift,param_shift_fires,residual_shift_pts,residual_shift_week,spec_diff,spec_diff_fires,calendar_diff_rows,calendar_diff_fires,residual_shift_fires
+baseline__seed20261118,True,,False,,False,0.28,2023-08-14,,False,0,False,False
+baseline__scenario_B_fix105,True,,False,,False,0.0,2023-01-02,,False,db deleted (input verified identical to clean),False,False
+scenario_B__scenario_B_fix105,True,,False,,False,0.0,2023-01-02,,False,db deleted (input verified identical to clean),False,False
+scenario_A,False,,False,saturation_beta:meta,True,12.65,2025-04-07,,False,1,True,True
+scenario_B,False,trend,True,,False,4.78,2025-09-15,,False,0,False,False
+scenario_C,False,,False,,False,26.06,2025-12-15,,False,0,False,True
+scenario_D,False,,False,,False,7.72,2025-06-30,,False,0,False,True
+scenario_E,False,,False,saturation_lam:email,True,0.91,2023-04-24,model_config.saturation_lam.kwargs.beta;saturation.priors.lam.kwargs.beta,True,0,False,False

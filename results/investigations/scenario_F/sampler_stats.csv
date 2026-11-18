@@ -1,0 +1,3 @@
+run,chains,draws,tuning_steps,acceptance_rate_mean,step_size_mean,tree_depth_mean,tree_depth_max,max_treedepth_hits,divergences,divergences_by_chain
+baseline,4,1000,1000,0.916156459651204,0.037052091143932736,6.9495,8,0,0,"[0, 0, 0, 0]"
+scenario_F,4,1000,1000,0.9093330492179111,0.03921053458626828,6.93875,8,0,0,"[0, 0, 0, 0]"

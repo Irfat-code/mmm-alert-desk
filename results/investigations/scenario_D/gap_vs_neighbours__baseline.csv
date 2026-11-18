@@ -1,0 +1,7 @@
+period,sales_channel,revenue_per_week,tiktok_spend_per_week
+1_before,online_store,196780.53,24418.84
+1_before,tiktok_shop,13305.33,24418.84
+2_gap,online_store,190670.3,17115.5
+2_gap,tiktok_shop,12386.47,17115.5
+3_after,online_store,195795.24,21624.11
+3_after,tiktok_shop,12667.82,21624.11

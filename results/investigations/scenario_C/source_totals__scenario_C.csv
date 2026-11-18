@@ -1,0 +1,3 @@
+source,n_rows,n_dates,min_date,max_date,rows_outside_dim_date
+raw_ad_spend,10962,1092,2023-01-02,2025-12-28,0.0
+shopify_orders_daily,1956,1083,2023-01-02,2025-12-19,0.0

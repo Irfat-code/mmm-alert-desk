@@ -1,0 +1,67 @@
+{
+  "config": "baseline",
+  "sampling_minutes": 0.5,
+  "r2": 0.9624,
+  "mape": 0.0259,
+  "max_rhat": 1.0032,
+  "worst_rhat_param": "saturation_beta",
+  "divergences": 0,
+  "max_treedepth_hits_by_chain": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "converged": true,
+  "plausibility": {
+    "total_revenue": 31780424.2,
+    "media_contribution": 16898310.92,
+    "media_share_of_revenue": 0.5317,
+    "media_share_flag": false,
+    "media_share_threshold": 0.8,
+    "interval_ratio_threshold": 10,
+    "wide_interval_channels": [
+      "email"
+    ],
+    "channels": {
+      "meta": {
+        "roas_interval_width": 1.0401,
+        "width_over_lower": 0.57,
+        "wide_interval": false
+      },
+      "google": {
+        "roas_interval_width": 1.2625,
+        "width_over_lower": 0.8,
+        "wide_interval": false
+      },
+      "tiktok": {
+        "roas_interval_width": 1.1369,
+        "width_over_lower": 0.98,
+        "wide_interval": false
+      },
+      "email": {
+        "roas_interval_width": 9.7598,
+        "width_over_lower": 40.26,
+        "wide_interval": true
+      }
+    },
+    "plausible": false
+  },
+  "decomposition": {
+    "intercept": 13489820.79,
+    "controls": 1397787.29,
+    "seasonality": -4920.34,
+    "media": 16898310.91,
+    "intercept_per_week": 86473.21
+  },
+  "rhat_by_param": {
+    "adstock_alpha": 1.0011,
+    "gamma_control": 1.0011,
+    "gamma_fourier": 1.0004,
+    "intercept_contribution": 0.9996,
+    "saturation_beta": 1.0032,
+    "saturation_lam": 1.0008,
+    "total_media_contribution_original_scale": 0.9995,
+    "y_sigma": 0.9994
+  }
+}

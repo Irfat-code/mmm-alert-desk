@@ -1,0 +1,4 @@
+check,baseline,scenario_A
+01_unexpected_channels,0,0
+02_incomplete_weeks,0,0
+03_channel_zero_weeks,0,0

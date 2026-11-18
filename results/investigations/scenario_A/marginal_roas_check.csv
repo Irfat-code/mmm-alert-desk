@@ -1,0 +1,9 @@
+run,channel,max_rel_error
+baseline,meta,3.52514602612674e-16
+baseline,google,2.6989621100912507e-16
+baseline,tiktok,2.211205385411896e-16
+baseline,email,2.8687083467965134e-16
+scenario_A,meta,3.2006734899522676e-16
+scenario_A,google,2.586016087524836e-16
+scenario_A,tiktok,2.07153587429095e-16
+scenario_A,email,3.063392123159884e-16

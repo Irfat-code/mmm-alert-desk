@@ -1,0 +1,5 @@
+channel,spend_base,contribution_mean_base,roas_mean_base,roas_low_5_base,roas_high_95_base,sd_ratio_post_over_prior_base,measured_base,reported_base,spend_run,contribution_mean_run,roas_mean_run,roas_low_5_run,roas_high_95_run,sd_ratio_post_over_prior_run,measured_run,reported_run,roas_rel_change,contribution_change,run_mean_outside_base_90,shift_over_25pct,roas_rule_fires
+meta,3760383.7,8759643.08,2.3295,1.8317,2.8718,0.195,True,True,3760383.7,9434161.19,2.5088,1.9348,3.151,0.146,True,True,0.07696930671817981,674518.1099999994,False,False,False
+google,2413441.62,5217858.92,2.162,1.5805,2.843,0.348,True,True,2413441.62,5151940.72,2.1347,1.4979,2.9116,0.302,True,True,-0.012627197039777882,-65918.20000000019,False,False,False
+tiktok,1261376.28,2156410.08,1.7096,1.1621,2.299,0.433,True,True,1261376.28,3093217.38,2.4523,1.7891,3.1327,0.429,True,True,0.43442910622367803,936807.2999999998,True,True,True
+email,206153.6,764398.84,3.7079,0.2424,10.0022,0.967,False,False,206153.6,767147.41,3.7212,0.2842,9.5667,0.977,False,False,0.003586936001510388,2748.570000000065,False,False,False

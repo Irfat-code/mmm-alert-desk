@@ -1,0 +1,17 @@
+item,value
+promo_id 10 rows before fix,0
+restored row,"{'promo_id': 10, 'promo_name': 'SPRING25', 'start_date': Timestamp('2025-04-07 00:00:00'), 'end_date': Timestamp('2025-04-20 00:00:00'), 'discount_pct': 0.25}"
+model input weeks (fixed / clean),156 / 156
+max abs weekly diff vs clean: revenue,0.0
+max abs weekly diff vs clean: orders,0.0
+max abs weekly diff vs clean: new_customers,0.0
+max abs weekly diff vs clean: meta_spend,0.0
+max abs weekly diff vs clean: google_spend,0.0
+max abs weekly diff vs clean: tiktok_spend,0.0
+max abs weekly diff vs clean: email_spend,0.0
+max abs weekly diff vs clean: hol_black_friday,0.0
+max abs weekly diff vs clean: hol_cyber_monday,0.0
+max abs weekly diff vs clean: hol_mothers_day,0.0
+max abs weekly diff vs clean: hol_valentines,0.0
+max abs weekly diff vs clean: hol_christmas,0.0
+max abs weekly diff vs clean: promo_intensity,0.0

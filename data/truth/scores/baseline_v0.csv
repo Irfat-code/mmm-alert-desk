@@ -1,0 +1,5 @@
+channel,measured,true_roas,roas_mean,roas_low_5,roas_high_95,error_pct,truth_in_90pct_interval,true_rank,est_rank
+meta,True,1.8,6.6042,2.0993,15.6874,2.669,False,3,2
+google,True,2.4,6.0105,1.3476,18.7324,1.5044,True,2,3
+tiktok,True,1.2,1.622,1.018,2.2414,0.3517,True,4,4
+email,True,5.0,41.0412,0.7375,150.2806,7.2082,True,1,1

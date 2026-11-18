@@ -1,0 +1,49 @@
+{
+  "name": "scenario_E",
+  "description": "Scenario run on data/scenarios/scenario_E.duckdb.",
+  "database": "data/scenarios/scenario_E.duckdb",
+  "channels": [
+    "meta",
+    "google",
+    "tiktok",
+    "email"
+  ],
+  "adstock_l_max": 8,
+  "saturation": "logistic",
+  "yearly_seasonality": 2,
+  "controls": [
+    "hol_black_friday",
+    "hol_cyber_monday",
+    "hol_mothers_day",
+    "hol_valentines",
+    "hol_christmas",
+    "promo_intensity",
+    "trend"
+  ],
+  "spend_share_scale": 0.15,
+  "beta_floor_roas_95": {
+    "email": 15
+  },
+  "priors": {
+    "intercept": {
+      "dist": "HalfNormal",
+      "sigma": 1
+    },
+    "saturation_beta": {
+      "dist": "HalfNormal",
+      "sigma": "spend_share"
+    },
+    "saturation_lam": {
+      "dist": "Gamma",
+      "alpha": 3,
+      "beta": 0.1
+    }
+  },
+  "sampler": {
+    "draws": 1000,
+    "tune": 1000,
+    "chains": 4,
+    "target_accept": 0.9,
+    "random_seed": 42
+  }
+}

@@ -1,0 +1,13 @@
+run,pair,period,weeks,corr
+baseline,meta~google,full,156,0.3118171835370114
+baseline,meta~google,window,17,0.8026878938706472
+baseline,meta~tiktok,full,156,0.22594483176654237
+baseline,meta~tiktok,window,17,0.24693954746692395
+baseline,meta~email,full,156,0.2294301383354959
+baseline,meta~email,window,17,0.6567196001928391
+scenario_B,meta~google,full,156,0.10830026711186261
+scenario_B,meta~google,window,17,0.7130380530730391
+scenario_B,meta~tiktok,full,156,0.07357400561988922
+scenario_B,meta~tiktok,window,17,0.30169030816004255
+scenario_B,meta~email,full,156,0.190703468992387
+scenario_B,meta~email,window,17,0.7445250065689847

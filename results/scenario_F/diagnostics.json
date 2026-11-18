@@ -1,0 +1,69 @@
+{
+  "config": "scenario_F",
+  "run": "scenario_F",
+  "database": "C:\\Users\\tafri\\Desktop\\Project\\mmm-alert-desk\\data\\scenarios\\scenario_F.duckdb",
+  "sampling_minutes": 0.9,
+  "r2": 0.9575,
+  "mape": 0.0259,
+  "max_rhat": 1.0022,
+  "worst_rhat_param": "adstock_alpha",
+  "divergences": 0,
+  "max_treedepth_hits_by_chain": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "converged": true,
+  "plausibility": {
+    "total_revenue": 31651841.4,
+    "media_contribution": 18446466.7,
+    "media_share_of_revenue": 0.5828,
+    "media_share_flag": false,
+    "media_share_threshold": 0.8,
+    "interval_ratio_threshold": 10,
+    "wide_interval_channels": [
+      "email"
+    ],
+    "channels": {
+      "meta": {
+        "roas_interval_width": 1.2162,
+        "width_over_lower": 0.63,
+        "wide_interval": false
+      },
+      "google": {
+        "roas_interval_width": 1.4137,
+        "width_over_lower": 0.94,
+        "wide_interval": false
+      },
+      "tiktok": {
+        "roas_interval_width": 1.3436,
+        "width_over_lower": 0.75,
+        "wide_interval": false
+      },
+      "email": {
+        "roas_interval_width": 9.2825,
+        "width_over_lower": 32.66,
+        "wide_interval": true
+      }
+    },
+    "plausible": false
+  },
+  "decomposition": {
+    "intercept": 12910481.29,
+    "controls": 299532.41,
+    "seasonality": -4391.91,
+    "media": 18446466.7,
+    "intercept_per_week": 82759.5
+  },
+  "rhat_by_param": {
+    "adstock_alpha": 1.0022,
+    "gamma_control": 1.0015,
+    "gamma_fourier": 1.0006,
+    "intercept_contribution": 1.0012,
+    "saturation_beta": 1.0016,
+    "saturation_lam": 1.0001,
+    "total_media_contribution_original_scale": 1.001,
+    "y_sigma": 0.9996
+  }
+}

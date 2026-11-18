@@ -1,0 +1,4 @@
+run,param_shift_z,param_shift_where,residual_shift_pts,residual_shift_week,divergences,max_rhat
+baseline__seed20261118,0.030592973672404666,saturation_beta:email,0.2769844208593164,2023-08-14,1,1.0023
+baseline__seed7,0.04847652698848483,saturation_beta:meta,0.32914973172103457,2023-03-27,4,1.0031
+baseline__seed31337,0.06156763701676926,saturation_beta:meta,0.28837258262828236,2024-03-18,0,1.0046

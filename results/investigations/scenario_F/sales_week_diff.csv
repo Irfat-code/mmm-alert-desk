@@ -1,0 +1,13 @@
+sales_channel,week_start,n_rows_base,revenue_base,orders_base,new_customers_base,n_rows_run,revenue_run,orders_run,new_customers_run,in_db
+tiktok_shop,2025-10-06,7,9129.91,247.0,147.0,,,,,left_only
+tiktok_shop,2025-10-13,7,6271.07,169.0,100.0,,,,,left_only
+tiktok_shop,2025-10-20,7,9783.12,244.0,147.0,,,,,left_only
+tiktok_shop,2025-10-27,7,10216.2,253.0,150.0,,,,,left_only
+tiktok_shop,2025-11-03,7,9615.57,258.0,155.0,,,,,left_only
+tiktok_shop,2025-11-10,7,10709.95,284.0,171.0,,,,,left_only
+tiktok_shop,2025-11-17,7,10654.32,288.0,172.0,,,,,left_only
+tiktok_shop,2025-11-24,7,13260.95,345.0,208.0,,,,,left_only
+tiktok_shop,2025-12-01,7,13594.66,362.0,215.0,,,,,left_only
+tiktok_shop,2025-12-08,7,12879.43,351.0,211.0,,,,,left_only
+tiktok_shop,2025-12-15,7,11874.59,317.0,190.0,,,,,left_only
+tiktok_shop,2025-12-22,7,10593.03,292.0,174.0,,,,,left_only

@@ -1,0 +1,32 @@
+{
+  "scenario_A": {
+    "fault": "missing_promo_flag",
+    "kind": "DATA",
+    "detail": "SPRING25 deleted from promo_calendar."
+  },
+  "scenario_B": {
+    "fault": "relabelled_campaign",
+    "kind": "DATA",
+    "detail": "Campaign 104 spend from 2025-09-01 moved to new campaign_id 105, same name, mapped to 'social'."
+  },
+  "scenario_C": {
+    "fault": "reporting_delay",
+    "kind": "DATA",
+    "detail": "Last 9 days of shopify_orders_daily deleted. Ad spend complete."
+  },
+  "scenario_D": {
+    "fault": "broken_tiktok_feed",
+    "kind": "DATA",
+    "detail": "TikTok ad spend rows deleted 2025-06-16 to 2025-07-06. Orders unchanged."
+  },
+  "scenario_E": {
+    "fault": "bad_saturation_prior",
+    "kind": "MODEL",
+    "detail": "Clean data. Config sets saturation_lam to Gamma(alpha=3, beta=0.1): meant as shape/scale (mean 0.3), read by PyMC as shape/rate (mean 30)."
+  },
+  "scenario_F": {
+    "fault": "dropped_sales_channel",
+    "kind": "DATA",
+    "detail": "tiktok_shop rows deleted from shopify_orders_daily from 2025-10-06 onward. Online store complete."
+  }
+}

@@ -1,0 +1,16 @@
+var,dims_base,dims_run,same
+adstock_alpha,"{'chain': 4, 'draw': 1000, 'channel': 4}","{'chain': 4, 'draw': 1000, 'channel': 4}",True
+channel_contribution,"{'chain': 4, 'draw': 1000, 'date': 156, 'channel': 4}","{'chain': 4, 'draw': 1000, 'date': 156, 'channel': 4}",True
+channel_contribution_original_scale,"{'chain': 4, 'draw': 1000, 'date': 156, 'channel': 4}","{'chain': 4, 'draw': 1000, 'date': 156, 'channel': 4}",True
+control_contribution,"{'chain': 4, 'draw': 1000, 'date': 156, 'control': 7}","{'chain': 4, 'draw': 1000, 'date': 156, 'control': 7}",True
+fourier_contribution,"{'chain': 4, 'draw': 1000, 'date': 156, 'fourier_mode': 4}","{'chain': 4, 'draw': 1000, 'date': 156, 'fourier_mode': 4}",True
+gamma_control,"{'chain': 4, 'draw': 1000, 'control': 7}","{'chain': 4, 'draw': 1000, 'control': 7}",True
+gamma_fourier,"{'chain': 4, 'draw': 1000, 'fourier_mode': 4}","{'chain': 4, 'draw': 1000, 'fourier_mode': 4}",True
+intercept_contribution,"{'chain': 4, 'draw': 1000}","{'chain': 4, 'draw': 1000}",True
+mu,"{'chain': 4, 'draw': 1000, 'date': 156}","{'chain': 4, 'draw': 1000, 'date': 156}",True
+saturation_beta,"{'chain': 4, 'draw': 1000, 'channel': 4}","{'chain': 4, 'draw': 1000, 'channel': 4}",True
+saturation_lam,"{'chain': 4, 'draw': 1000, 'channel': 4}","{'chain': 4, 'draw': 1000, 'channel': 4}",True
+total_media_contribution_original_scale,"{'chain': 4, 'draw': 1000}","{'chain': 4, 'draw': 1000}",True
+y_original_scale,"{'chain': 4, 'draw': 1000, 'date': 156}","{'chain': 4, 'draw': 1000, 'date': 156}",True
+y_sigma,"{'chain': 4, 'draw': 1000}","{'chain': 4, 'draw': 1000}",True
+yearly_seasonality_contribution,"{'chain': 4, 'draw': 1000, 'date': 156}","{'chain': 4, 'draw': 1000, 'date': 156}",True

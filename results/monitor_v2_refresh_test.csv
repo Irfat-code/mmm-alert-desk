@@ -1,0 +1,28 @@
+kind,run,against,exclude_latest_weeks,overlap_weeks,param_shift_z,param_shift_where,residual_shift_pts,residual_shift_week
+refresh,baseline,baseline__baseline_minus4w,0,152,0.35,saturation_lam:meta,1.6,2023-12-25
+refresh,baseline,baseline__baseline_minus4w,4,148,0.35,saturation_lam:meta,1.6,2023-12-25
+refresh,baseline,baseline__baseline_minus4w,8,144,0.35,saturation_lam:meta,1.6,2023-12-25
+clean seed,baseline__seed20261118,baseline,0,156,0.031,saturation_beta:email,0.28,2023-08-14
+clean seed,baseline__seed20261118,baseline,4,152,0.031,saturation_beta:email,0.28,2023-08-14
+clean seed,baseline__seed20261118,baseline,8,148,0.031,saturation_beta:email,0.28,2023-08-14
+clean seed,baseline__seed7,baseline,0,156,0.048,saturation_beta:meta,0.33,2023-03-27
+clean seed,baseline__seed7,baseline,4,152,0.048,saturation_beta:meta,0.33,2023-03-27
+clean seed,baseline__seed7,baseline,8,148,0.048,saturation_beta:meta,0.33,2023-03-27
+clean seed,baseline__seed31337,baseline,0,156,0.062,saturation_beta:meta,0.29,2024-03-18
+clean seed,baseline__seed31337,baseline,4,152,0.062,saturation_beta:meta,0.29,2024-03-18
+clean seed,baseline__seed31337,baseline,8,148,0.062,saturation_beta:meta,0.29,2024-03-18
+scenario,scenario_A,baseline,0,156,6.459,saturation_beta:meta,12.65,2025-04-07
+scenario,scenario_A,baseline,4,152,6.459,saturation_beta:meta,12.65,2025-04-07
+scenario,scenario_A,baseline,8,148,6.459,saturation_beta:meta,12.65,2025-04-07
+scenario,scenario_B,baseline,0,156,1.643,adstock_alpha:meta,4.78,2025-09-15
+scenario,scenario_B,baseline,4,152,1.643,adstock_alpha:meta,4.78,2025-09-15
+scenario,scenario_B,baseline,8,148,1.643,adstock_alpha:meta,4.78,2025-09-15
+scenario,scenario_C,baseline,0,155,0.872,adstock_alpha:meta,26.06,2025-12-15
+scenario,scenario_C,baseline,4,151,0.872,adstock_alpha:meta,2.11,2024-01-01
+scenario,scenario_C,baseline,8,147,0.872,adstock_alpha:meta,2.11,2024-01-01
+scenario,scenario_D,baseline,0,156,1.702,adstock_alpha:tiktok,7.72,2025-06-30
+scenario,scenario_D,baseline,4,152,1.702,adstock_alpha:tiktok,7.72,2025-06-30
+scenario,scenario_D,baseline,8,148,1.702,adstock_alpha:tiktok,7.72,2025-06-30
+scenario,scenario_E,baseline,0,156,15.607,saturation_lam:email,0.91,2023-04-24
+scenario,scenario_E,baseline,4,152,15.607,saturation_lam:email,0.91,2023-04-24
+scenario,scenario_E,baseline,8,148,15.607,saturation_lam:email,0.91,2023-04-24

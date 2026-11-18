@@ -1,0 +1,5 @@
+channel,spend,contribution_mean,roas_mean,roas_low_5,roas_high_95,prior_beta_sd,post_beta_sd,sd_ratio_post_over_prior,measured,reported
+meta,3760383.7,7768858.25,2.066,1.7557,2.4031,0.18,0.119,0.661,True,True
+google,2413441.62,5978467.33,2.4772,1.6452,3.4941,0.1112,0.0314,0.282,True,True
+tiktok,1261376.28,2418652.82,1.9175,1.2529,2.6171,0.0604,0.0268,0.444,True,True
+email,206153.6,711071.01,3.4492,0.2286,9.3497,0.0181,0.0169,0.931,False,False

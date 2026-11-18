@@ -1,0 +1,7 @@
+table,rows_base,rows_run,same_columns,only_in_base,only_in_run
+dim_date,1092,1092,True,0,0
+raw_ad_spend,10962,10962,True,0,0
+campaign_channel_map,13,13,True,0,0
+shopify_orders_daily,1974,1890,True,84,0
+holiday_calendar,15,15,True,0,0
+promo_calendar,13,13,True,0,0

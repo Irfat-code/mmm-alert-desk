@@ -1,0 +1,38 @@
+{
+  "config": "baseline_v0",
+  "corr_intercept_media": -0.9997,
+  "saturation": {
+    "meta": {
+      "corr_beta_kappa": 0.2329,
+      "share_kappa_above_1": 0.4557,
+      "saturation_beta_mean": 1.1231,
+      "saturation_beta_sd": 0.6125,
+      "saturation_kappa_mean": 1.1223,
+      "saturation_kappa_sd": 0.8204
+    },
+    "google": {
+      "corr_beta_kappa": 0.1572,
+      "share_kappa_above_1": 0.5092,
+      "saturation_beta_mean": 0.6975,
+      "saturation_beta_sd": 0.5123,
+      "saturation_kappa_mean": 1.2514,
+      "saturation_kappa_sd": 0.8567
+    },
+    "tiktok": {
+      "corr_beta_kappa": 0.8506,
+      "share_kappa_above_1": 0.518,
+      "saturation_beta_mean": 0.2301,
+      "saturation_beta_sd": 0.1075,
+      "saturation_kappa_mean": 1.2736,
+      "saturation_kappa_sd": 0.8478
+    },
+    "email": {
+      "corr_beta_kappa": 0.1124,
+      "share_kappa_above_1": 0.5533,
+      "saturation_beta_mean": 0.3932,
+      "saturation_beta_sd": 0.3996,
+      "saturation_kappa_mean": 1.3527,
+      "saturation_kappa_sd": 1.0525
+    }
+  }
+}

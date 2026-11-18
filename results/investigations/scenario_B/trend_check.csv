@@ -1,0 +1,15 @@
+run,item,value
+baseline,"corr(meta_spend, week index)",0.20641464257299802
+baseline,"corr(google_spend, week index)",0.5540003129080762
+baseline,"corr(tiktok_spend, week index)",0.8459274674584596
+baseline,"corr(email_spend, week index)",0.12406661898881388
+scenario_B,"corr(meta_spend, week index)",-0.019440657859846937
+scenario_B,"corr(google_spend, week index)",0.5540003129080762
+scenario_B,"corr(tiktok_spend, week index)",0.8459274674584596
+scenario_B,"corr(email_spend, week index)",0.12406661898881388
+baseline,trend gamma mean,0.014335069036835048
+baseline,trend gamma 5%,-0.02088958063686537
+baseline,trend gamma 95%,0.047452814175274326
+scenario_B,trend gamma mean,0.08783810864764079
+scenario_B,trend gamma 5%,0.05726899061430545
+scenario_B,trend gamma 95%,0.11732500489552078

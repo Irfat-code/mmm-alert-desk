@@ -1,0 +1,9 @@
+run,channel,corr_with_baseline_control_contribution
+baseline,meta,0.28311961405987296
+baseline,google,0.13021600735741012
+baseline,tiktok,0.2173739902750497
+baseline,email,0.2370094449144263
+scenario_B,meta,0.25852225137104706
+scenario_B,google,0.13021600735741012
+scenario_B,tiktok,0.2173739902750497
+scenario_B,email,0.2370094449144263
